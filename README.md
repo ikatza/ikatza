@@ -1,4 +1,7 @@
-### Hi there 👋
+### Howdy
+
+I'm Iker de Icaza. PhD Student at Sussex Uni. Working on Experimental Neutrino Physics.
+
 
 <!--
 **ikatza/ikatza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
