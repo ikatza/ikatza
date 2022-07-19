@@ -1,6 +1,6 @@
 ### Howdy
 
-I'm Iker de Icaza. PhD Student at Sussex Uni. Working on Experimental Neutrino Physics.
+I'm Iker de Icaza. Research Fellow at Sussex Uni. Working on Experimental Neutrino Physics.
 
 
 <!--
